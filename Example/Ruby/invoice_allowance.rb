@@ -8,8 +8,8 @@ class YOURCONTROLLER < ApplicationController
 			"InvoiceNo"=>"RH00001422", # 發票號碼，長度為10字元
 			"AllowanceNotify"=>"E", # 通知類別
 			"CustomerName"=>"", # 客戶名稱
-			"NotifyPhone"=>"0922652130", # 通知手機號碼
-			"NotifyMail"=>"ying.wu@allpay.com.tw", # 通知電子信箱
+			"NotifyPhone"=>"0912345678", # 通知手機號碼
+			"NotifyMail"=>"test@opay.tw", # 通知電子信箱
 			"AllowanceAmount"=>"300", # 折讓單總金額
 			"ItemName"=>"洗衣精", # 商品名稱，如果超過一樣商品時請以｜分隔
 			"ItemCount"=>"3", # 商品數量，如果超過一樣商品時請以｜分隔
